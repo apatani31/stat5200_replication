@@ -1,0 +1,16 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Derived data is rebuilt by code/01_clean.R on every run
+data/derived/*
+!data/derived/.gitkeep
+
+# LaTeX build files (the PDF itself is committed)
+summary/*.aux
+summary/*.log
+summary/*.out
+summary/*.fls
+summary/*.fdb_latexmk
+summary/*.synctex.gz
