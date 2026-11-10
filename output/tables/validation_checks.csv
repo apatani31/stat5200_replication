@@ -1,0 +1,13 @@
+check,value
+Obs with both own and IMF premium,2095
+Max |own premium - IMF premium| (pp),4.923189450778409e-6
+Mean |own premium - IMF premium| (pp),9.383638574272693e-8
+Country-months with shadow but no IMF premium,0
+USA: months with |shadow - 1| > 1%,38
+USA: max |shadow - 1|,0.08099999999999996
+USA: max |official - 1|,0
+UKR official 2022-02,28.4137
+UKR official 2022-03 to 2022-06 (min),29.2549
+UKR official 2022-03 to 2022-06 (max),29.2549
+UKR official 2022-07,31.8501
+UKR official 2022-08,36.568600000000004

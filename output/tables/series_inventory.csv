@@ -1,0 +1,164 @@
+iso3,country,ind_code,indicator_label,n_months,first,last
+ALB,Albania,XDC_USD_RT,"Official FX Rate, LCU/USD",16,2024-07,2025-10
+DZA,Algeria,XDC_USD_RT,"Official FX Rate, LCU/USD",16,2024-03,2025-10
+AGO,Angola,XDC_USD_RT,"Official FX Rate, LCU/USD",16,2024-03,2025-10
+ARG,Argentina,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+ARG,Argentina,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+ARG,Argentina,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+ARG,Argentina,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+AUS,Australia,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+AUS,Australia,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+AUS,Australia,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+AUS,Australia,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+BOL,Bolivia,XDC_USD_RT,"Official FX Rate, LCU/USD",69,2020-02,2025-10
+BWA,Botswana,XDC_USD_RT,"Official FX Rate, LCU/USD",43,2022-04,2025-10
+BRA,Brazil,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+BRA,Brazil,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+BRA,Brazil,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+BRA,Brazil,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+BGR,Bulgaria,XDC_USD_RT,"Official FX Rate, LCU/USD",33,2023-02,2025-10
+BDI,Burundi,XDC_USD_RT,"Official FX Rate, LCU/USD",16,2024-03,2025-10
+CAN,Canada,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+CAN,Canada,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+CAN,Canada,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+CAN,Canada,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+CHL,Chile,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),73,2019-01,2025-10
+CHL,Chile,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),73,2019-01,2025-10
+CHL,Chile,TVBIT_USD,Bitcoin trade volume in local market (in USD),73,2019-01,2025-10
+CHL,Chile,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+COL,Colombia,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),75,2019-06,2025-10
+COL,Colombia,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),75,2019-06,2025-10
+COL,Colombia,TVBIT_USD,Bitcoin trade volume in local market (in USD),75,2019-06,2025-10
+COL,Colombia,XDC_USD_RT,"Official FX Rate, LCU/USD",79,2019-04,2025-10
+CRI,Costa Rica,XDC_USD_RT,"Official FX Rate, LCU/USD",69,2020-02,2025-10
+CZE,Czech Republic,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+CZE,Czech Republic,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+CZE,Czech Republic,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+CZE,Czech Republic,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+DNK,Denmark,XDC_USD_RT,"Official FX Rate, LCU/USD",54,2021-05,2025-10
+DOM,Dominican Republic,XDC_USD_RT,"Official FX Rate, LCU/USD",79,2019-04,2025-10
+GEO,Georgia,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),11,2023-05,2024-03
+GEO,Georgia,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),11,2023-05,2024-03
+GEO,Georgia,TVBIT_USD,Bitcoin trade volume in local market (in USD),11,2023-05,2024-03
+GEO,Georgia,XDC_USD_RT,"Official FX Rate, LCU/USD",53,2021-06,2025-10
+GHA,Ghana,XDC_USD_RT,"Official FX Rate, LCU/USD",68,2020-03,2025-10
+GTM,Guatemala,XDC_USD_RT,"Official FX Rate, LCU/USD",68,2020-03,2025-10
+GIN,Guinea,XDC_USD_RT,"Official FX Rate, LCU/USD",16,2024-03,2025-10
+HND,Honduras,XDC_USD_RT,"Official FX Rate, LCU/USD",16,2024-03,2025-10
+HUN,Hungary,XDC_USD_RT,"Official FX Rate, LCU/USD",56,2021-03,2025-10
+ISL,Iceland,XDC_USD_RT,"Official FX Rate, LCU/USD",42,2022-04,2025-10
+IND,India,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+IND,India,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+IND,India,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+IND,India,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+IDN,Indonesia,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+IDN,Indonesia,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+IDN,Indonesia,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+IDN,Indonesia,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+ISR,Israel,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+ISR,Israel,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+ISR,Israel,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+ISR,Israel,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+JPN,Japan,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+JPN,Japan,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+JPN,Japan,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+JPN,Japan,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+KEN,Kenya,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),11,2024-12,2025-10
+KEN,Kenya,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),11,2024-12,2025-10
+KEN,Kenya,TVBIT_USD,Bitcoin trade volume in local market (in USD),11,2024-12,2025-10
+KEN,Kenya,XDC_USD_RT,"Official FX Rate, LCU/USD",68,2020-03,2025-10
+KGZ,Kyrgyz Republic,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),10,2024-04,2025-01
+KGZ,Kyrgyz Republic,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),10,2024-04,2025-01
+KGZ,Kyrgyz Republic,TVBIT_USD,Bitcoin trade volume in local market (in USD),10,2024-04,2025-01
+KGZ,Kyrgyz Republic,XDC_USD_RT,"Official FX Rate, LCU/USD",20,2024-03,2025-10
+MWI,Malawi,XDC_USD_RT,"Official FX Rate, LCU/USD",6,2025-05,2025-10
+MYS,Malaysia,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+MYS,Malaysia,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+MYS,Malaysia,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+MYS,Malaysia,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+MEX,Mexico,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+MEX,Mexico,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+MEX,Mexico,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+MEX,Mexico,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+MAR,Morocco,XDC_USD_RT,"Official FX Rate, LCU/USD",55,2021-04,2025-10
+GX758,Multiple Central African Countries,XDC_USD_RT,"Official FX Rate, LCU/USD",54,2021-04,2025-10
+GX776,Multiple West African Countries,XDC_USD_RT,"Official FX Rate, LCU/USD",55,2021-04,2025-10
+NZL,New Zealand,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+NZL,New Zealand,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+NZL,New Zealand,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+NZL,New Zealand,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+NIC,Nicaragua,XDC_USD_RT,"Official FX Rate, LCU/USD",16,2024-03,2025-10
+NGA,Nigeria,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+NGA,Nigeria,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+NGA,Nigeria,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+NGA,Nigeria,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+NOR,Norway,XDC_USD_RT,"Official FX Rate, LCU/USD",54,2021-05,2025-10
+PAK,Pakistan,XDC_USD_RT,"Official FX Rate, LCU/USD",56,2021-03,2025-10
+PAN,Panama,XDC_USD_RT,"Official FX Rate, LCU/USD",79,2019-04,2025-10
+PRY,Paraguay,XDC_USD_RT,"Official FX Rate, LCU/USD",68,2020-03,2025-10
+PER,Peru,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),76,2019-01,2025-10
+PER,Peru,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),76,2019-01,2025-10
+PER,Peru,TVBIT_USD,Bitcoin trade volume in local market (in USD),76,2019-01,2025-10
+PER,Peru,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+PHL,Philippines,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),77,2019-01,2025-10
+PHL,Philippines,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),77,2019-01,2025-10
+PHL,Philippines,TVBIT_USD,Bitcoin trade volume in local market (in USD),77,2019-01,2025-10
+PHL,Philippines,XDC_USD_RT,"Official FX Rate, LCU/USD",77,2019-01,2025-10
+ROU,Romania,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),7,2025-04,2025-10
+ROU,Romania,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),7,2025-04,2025-10
+ROU,Romania,TVBIT_USD,Bitcoin trade volume in local market (in USD),7,2025-04,2025-10
+ROU,Romania,XDC_USD_RT,"Official FX Rate, LCU/USD",56,2021-03,2025-10
+RWA,Rwanda,XDC_USD_RT,"Official FX Rate, LCU/USD",16,2024-03,2025-10
+SAU,Saudi Arabia,XDC_USD_RT,"Official FX Rate, LCU/USD",42,2022-05,2025-10
+SGP,Singapore,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+SGP,Singapore,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+SGP,Singapore,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+SGP,Singapore,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+ZAF,South Africa,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),63,2019-01,2024-03
+ZAF,South Africa,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),63,2019-01,2024-03
+ZAF,South Africa,TVBIT_USD,Bitcoin trade volume in local market (in USD),63,2019-01,2024-03
+ZAF,South Africa,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+LKA,Sri Lanka,XDC_USD_RT,"Official FX Rate, LCU/USD",55,2021-04,2025-10
+SWE,Sweden,XDC_USD_RT,"Official FX Rate, LCU/USD",54,2021-05,2025-10
+CHE,Switzerland,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+CHE,Switzerland,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+CHE,Switzerland,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+CHE,Switzerland,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+TWN,Taiwan Province of China,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),30,2019-11,2025-10
+TWN,Taiwan Province of China,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),30,2019-11,2025-10
+TWN,Taiwan Province of China,TVBIT_USD,Bitcoin trade volume in local market (in USD),30,2019-11,2025-10
+TWN,Taiwan Province of China,XDC_USD_RT,"Official FX Rate, LCU/USD",71,2019-11,2025-10
+THA,Thailand,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+THA,Thailand,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+THA,Thailand,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+THA,Thailand,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+TUN,Tunisia,XDC_USD_RT,"Official FX Rate, LCU/USD",16,2024-03,2025-10
+UGA,Uganda,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),26,2019-09,2021-10
+UGA,Uganda,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),26,2019-09,2021-10
+UGA,Uganda,TVBIT_USD,Bitcoin trade volume in local market (in USD),26,2019-09,2021-10
+UGA,Uganda,XDC_USD_RT,"Official FX Rate, LCU/USD",74,2019-09,2025-10
+UKR,Ukraine,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+UKR,Ukraine,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+UKR,Ukraine,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+UKR,Ukraine,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+ARE,United Arab Emirates,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),41,2020-09,2025-10
+ARE,United Arab Emirates,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),41,2020-09,2025-10
+ARE,United Arab Emirates,TVBIT_USD,Bitcoin trade volume in local market (in USD),41,2020-09,2025-10
+ARE,United Arab Emirates,XDC_USD_RT,"Official FX Rate, LCU/USD",59,2020-09,2025-10
+GBR,United Kingdom,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+GBR,United Kingdom,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+GBR,United Kingdom,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+GBR,United Kingdom,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+USA,United States,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),82,2019-01,2025-10
+USA,United States,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),82,2019-01,2025-10
+USA,United States,TVBIT_USD,Bitcoin trade volume in local market (in USD),82,2019-01,2025-10
+USA,United States,XDC_USD_RT,"Official FX Rate, LCU/USD",82,2019-01,2025-10
+URY,Uruguay,XDC_USD_RT,"Official FX Rate, LCU/USD",69,2020-02,2025-10
+VNM,Vietnam,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),16,2019-01,2020-04
+VNM,Vietnam,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),16,2019-01,2020-04
+VNM,Vietnam,TVBIT_USD,Bitcoin trade volume in local market (in USD),16,2019-01,2020-04
+VNM,Vietnam,XDC_USD_RT,"Official FX Rate, LCU/USD",79,2019-01,2025-10
+ZMB,Zambia,BIT_SHD_PT,Crypto-based Parallel Exchange Rate Premium (in %),21,2019-05,2021-01
+ZMB,Zambia,BIT_SHD_RT,Crypto-based Parallel Exchange Rate (LCU/USD),21,2019-05,2021-01
+ZMB,Zambia,TVBIT_USD,Bitcoin trade volume in local market (in USD),21,2019-05,2021-01
+ZMB,Zambia,XDC_USD_RT,"Official FX Rate, LCU/USD",37,2019-05,2025-10
